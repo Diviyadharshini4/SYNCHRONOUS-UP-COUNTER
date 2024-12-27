@@ -68,4 +68,4 @@ RegisterNumber:24008491
 ![image](https://github.com/user-attachments/assets/50d6b7e6-5494-41c4-a8b1-b0038433e2c5)
 
 **RESULTS**
-4-bit synchoronous up counter is verified.
+4-bit synchoronous up counter is verified. 
