@@ -56,15 +56,16 @@ endmodule
 
 Developed by:A.DIVIYADHARSHINI
 RegisterNumber:24008491
-
-
-**RTL**
-![image](https://github.com/user-attachments/assets/b32027cb-444e-4fc9-ac68-817f98287483)
-
 **TRUTH TABLE**
+
 ![image](https://github.com/user-attachments/assets/538ef975-fa8c-4874-ac9c-0032ca5c7aad)
 
+**RTL**
+
+![image](https://github.com/user-attachments/assets/b32027cb-444e-4fc9-ac68-817f98287483)
+
 **OUTPUTS**
+
 ![image](https://github.com/user-attachments/assets/50d6b7e6-5494-41c4-a8b1-b0038433e2c5)
 
 **RESULTS**
